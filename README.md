@@ -21,7 +21,7 @@
 
 | Repo | What's inside |
 |------|----------------|
-| [hack-the-box-reports](/hack-the-box-reports) | Structured HTB writeups — recon → exploit → privilege escalation |
+| [hack-the-box-reports][(/hack-the-box-reports)](https://github.com/ranjitgautam828-eng/hack-the-box-reports) | Structured HTB writeups — recon → exploit → privilege escalation |
 | [network-security-design-lab](/network-security-design-lab) | 3-layer campus network with ACLs, HSRP, port security |
 | [cybersecurity-fundamentals](/cybersecurity-fundamentals) | My cybersecurity progression basic takeaways |
 
