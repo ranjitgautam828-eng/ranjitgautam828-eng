@@ -29,9 +29,6 @@
 
 ## 🧠 What I'm NOT looking for
 
-❌ Web dev roles  
-❌ Frontend/backend focused positions  
-
 ✅ Security-focused co-ops (SOC, NOC, IT security, GRC junior, security analyst)  
 ✅ Hands-on lab work over theory
 
