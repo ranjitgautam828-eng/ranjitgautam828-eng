@@ -2,6 +2,7 @@
 
 🎓 **BCIS @ University of the Fraser Valley** | Co-op eligible  
 🎯 **Goal:** 
+
 > **IT-ready today. Security-focused tomorrow.**
 > *I can work in IT operations right now. I'm building toward security as my career direction.*
 
