@@ -18,8 +18,9 @@ I can work in IT operations right now. BUT, I'm building toward security as my c
 ✅ GRC Junior
 
 **Bottom line:** 
-Put me in an IT role today — I’ll deliver.
-Give me security work — I’ll grow fast.
+
+>Put me in an IT role today — I’ll deliver.
+>Give me security work — I’ll grow fast.
 ---
 
 ### 💼 What I can do for your team TODAY
