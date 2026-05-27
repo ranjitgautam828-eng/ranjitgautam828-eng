@@ -10,6 +10,7 @@
 I can work in IT operations right now. BUT, I'm building toward security as my career direction.
 
 **Roles I want:**
+
 ✅ IT Support / IT Operations  
 ✅ NOC Technician  
 ✅ SOC Analyst (junior)  
