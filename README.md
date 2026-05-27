@@ -1,20 +1,26 @@
-👋 **Hi, I'm Ranjit Gautam**
+👋 **Hi there, I'm Ranjit**
 
 🎓 **BCIS @ University of the Fraser Valley | Co-op eligible**
 
 ---
 
-### 🎯 Goal
-
+### 🎯 Co-op roles I'm targeting & Goal
 **IT-ready today. Security-focused tomorrow.**
 
-I can work in IT operations right now. I'm building toward security as my career direction.
+I can work in IT operations right now. BUT, I'm building toward security as my career direction.
 
-**Seeking co-op:** IT Support (L1/L2) · NOC Technician · SOC Tier 1 (security track) · Junior Network Technician · Systems/Helpdesk Analyst
+✅ IT Support / IT Operations  
+✅ NOC Technician  
+✅ SOC Analyst (junior)  
+✅ IT Security Assistant  
+✅ GRC Junior
+
+**Bottom line:** Put me in an IT role today, I'll deliver. Give me security work, I'll grow into it fast.
 
 ---
 
 ### 💼 What I can do for your team TODAY
+As I am working and investing most of my time self-learning.
 
 | Skill | Real proof |
 |-------|-------------|
@@ -43,20 +49,6 @@ I can work in IT operations right now. I'm building toward security as my career
 | [network-security-design-lab](/network-security-design-lab) | I can design and secure a campus network |
 | [hack-the-box-reports](https://github.com/ranjitgautam828-eng/hack-the-box-reports) | I can document security work clearly |
 | [cybersecurity-fundamentals](https://github.com/ranjitgautam828-eng/cybersecurity-fundamentals) | I learn systematically and take notes from pwn.college, hack-the-box, and other platform|
-
-> Hands-on learner. Documenting everything. No theory without practice.
-
----
-
-### 🎯 Co-op roles I'm targeting
-
-✅ IT Support / IT Operations  
-✅ NOC Technician  
-✅ SOC Analyst (junior)  
-✅ IT Security Assistant  
-✅ GRC Junior
-
-**Bottom line:** Put me in an IT role today, I'll deliver. Give me security work, I'll grow into it fast.
 
 ---
 
