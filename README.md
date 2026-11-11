@@ -1,6 +1,6 @@
-👋 ** Hi, I'm Ranjit **
+👋 **Hi, I'm Ranjit**
 
-🎓 ** Bachelor in Computer System @ University of the Fraser Valley**
+🎓 **Bachelor in Computer System @ University of the Fraser Valley**
 
 ---
 
