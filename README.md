@@ -24,7 +24,7 @@
 | 🕹️ Hack The Box | Enumeration, footholds, privilege escalation |
 | 🧠 Cisco Labs | VLANs, ACLs, HSRP, OSPF, port security |
 
-> I love learning by building, breaking and doing in-depth research on computer related project. I document everything as I learn.
+> I love learning by building, breaking and doing in-depth research for my project. I document everything, as I learn.
 
 ---
 
