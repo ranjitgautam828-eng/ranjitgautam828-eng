@@ -41,7 +41,7 @@ I work with Linux environments, network infrastructure, programming and hands-on
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌐 Network Security Design Lab
 
@@ -61,7 +61,7 @@ Designed and simulated a three-layer campus network for four departments, focusi
 [**Explore Project ↗**](https://github.com/ranjitgautam828-eng/network-security-design-lab)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🔐 Hack The Box Reports
 
@@ -82,7 +82,7 @@ Documented hands-on security investigations, focusing on understanding vulnerabi
 
 [**Explore Reports ↗**](https://github.com/ranjitgautam828-eng/hack-the-box-reports)
 
-
+</td>
 </tr>
 </table>
 
