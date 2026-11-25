@@ -4,7 +4,7 @@
 
 Computer Information Systems student at the **University of the Fraser Valley**, interested in understanding how systems work, how they fail, and how to secure them.
 
-I work with Linux environments, network infrastructure, programming and hands-on cybersecurity labs.
+Hands-on experience with Linux environments, network infrastructure, programming, and cybersecurity labs.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjit-gautam-5b7ab2238)
 [![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ranjitgautam828-eng)
@@ -45,11 +45,11 @@ I work with Linux environments, network infrastructure, programming and hands-on
 
 ### 🌐 Network Security Design Lab
 
-**Enterprise Networking**
+**Enterprise Networking** · ![Status](https://img.shields.io/badge/Completed-success?style=flat-square)
 
 Designed and simulated a three-layer campus network for four departments, focusing on segmentation, routing, access control and redundancy.
 
-**Key implementations**
+**Key Implementations**
 - VLANs and inter-VLAN routing
 - HSRP gateway redundancy
 - EtherChannel (LACP)
@@ -65,11 +65,11 @@ Designed and simulated a three-layer campus network for four departments, focusi
 
 ### 🔐 Hack The Box Reports
 
-**Offensive Security**
+**Offensive Security** · ![Status](https://img.shields.io/badge/Ongoing-blue?style=flat-square)
 
-Documented hands-on security investigations, focusing on understanding vulnerabilities, attack paths and the techniques used to compromise systems.
+Documenting hands-on security investigations, focusing on vulnerabilities, attack paths and techniques used to compromise systems.
 
-**Key areas**
+**Key Areas**
 - Reconnaissance
 - Service enumeration
 - Vulnerability analysis
