@@ -1,91 +1,112 @@
-<div align="center">
+# Ranjit Gautam
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ranjit+Gautam;Security-focused+CS+Student;Linux+%C2%B7+Networking+%C2%B7+Blue+Team+in+Training" alt="Ranjit Gautam" />
+**BCIS Student | IT & Cybersecurity | Systems, Networking & Security**
 
-### Bachelor in Computer System @ University of the Fraser Valley
+Computer Information Systems student at the **University of the Fraser Valley**, interested in understanding how systems work, how they fail, and how to secure them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjit-gautam-5b7ab2238)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ranjitgautam828-eng)
-![Location](https://img.shields.io/badge/Canada-🇨🇦-lightgrey?style=flat)
+I work with Linux environments, network infrastructure, programming and hands-on cybersecurity labs.
 
-</div>
-
----
-
-```yaml
-role:       CS Student @ University of the Fraser Valley
-focus:      Linux administration · Network security · Privilege escalation
-currently:  pwn.college · Hack The Box · Cisco labs
-based_in:   Canada
-open_to:    Internships · Junior security / IT roles
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjit-gautam-5b7ab2238)
+[![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ranjitgautam828-eng)
+![Location](https://img.shields.io/badge/Location-Canada-EA4335?style=flat-square&logo=googlemaps&logoColor=white)
 
 ---
 
-## 💼 What I can do
+## 🛠️ Technical Stack
 
-| Skill | Proof |
-|---|---|
-| **Linux administration** | Permissions, processes, logging, cron jobs |
-| **Networking fundamentals** | VLANs, ACLs, routing, troubleshooting |
-| **Security fundamentals** | Authentication, access control, hardening concepts |
-| **Documentation** | Lab reports, structured notes, clear written communication |
+**Systems & Infrastructure**
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,windows,docker,git&theme=dark" alt="Linux, Ubuntu, Bash, Windows, Docker and Git"/>
+</p>
 
-## 📁 Featured work
+**Programming & Development**
 
-### 🛡️ Network Security Design Lab
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,nodejs,mysql&theme=dark" alt="Python, JavaScript, HTML, CSS, Node.js and MySQL"/>
+</p>
 
-**Problem** — Design a campus network that is segmented, resilient, and defensible rather than flat and open.
+**Networking & Security**
 
-**Built** — A multi-VLAN topology with inter-VLAN routing, ACLs enforcing least-privilege between segments, port security on access ports, HSRP for gateway redundancy, and hardening applied per device. Every design decision is documented with its security rationale.
-
-**Proves** — I can translate a network requirement into a working, defensible configuration — and explain *why* each control exists, not just that it was typed in.
-
-→ [View the lab](https://github.com/ranjitgautam828-eng/network-security-design-lab)
-
----
-
-### 🕹️ Hack The Box Reports
-
-**Problem** — Practice real enumeration and privilege escalation, and prove the work rather than just claiming it.
-
-**Built** — Structured writeups for each machine: reconnaissance and service enumeration, foothold acquisition, privilege escalation path, and a closing section on what the misconfiguration was and how it should be remediated.
-
-**Proves** — I can communicate security work clearly to someone who wasn't in the terminal with me. Execution plus documentation is the actual skill.
-
-→ [View the reports](https://github.com/ranjitgautam828-eng/hack-the-box-reports)
+<p>
+  <img src="https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box"/>
+  <img src="https://img.shields.io/badge/pwn.college-222222?style=flat-square" alt="pwn.college"/>
+</p>
 
 ---
 
-### 🧠 Cybersecurity Fundamentals
+## 🚀 Featured Projects
 
-**Problem** — Build systematic, compounding technical notes instead of one-off reading that evaporates in a week.
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**Built** — An ongoing, topic-organized knowledge base drawn from pwn.college, Hack The Box, and other platforms — covering Linux internals, binary exploitation concepts, access control, and authentication.
+### 🌐 Network Security Design Lab
 
-**Proves** — I learn consistently and structure what I learn. The repo grows over time, which is the point.
+**Enterprise Networking**
 
-→ [View the notes](https://github.com/ranjitgautam828-eng/cybersecurity-fundamentals)
+Designed and simulated a three-layer campus network for four departments, focusing on segmentation, routing, access control and redundancy.
+
+**Key implementations**
+- VLANs and inter-VLAN routing
+- HSRP gateway redundancy
+- EtherChannel (LACP)
+- ACLs and port security
+- OSPF / EIGRP routing
+
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
+
+[**Explore Project ↗**](https://github.com/ranjitgautam828-eng/network-security-design-lab)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔐 Hack The Box Reports
+
+**Offensive Security**
+
+Documented hands-on security investigations, focusing on understanding vulnerabilities, attack paths and the techniques used to compromise systems.
+
+**Key areas**
+- Reconnaissance
+- Service enumeration
+- Vulnerability analysis
+- Exploitation
+- Privilege escalation
+- Defensive recommendations
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![HTB](https://img.shields.io/badge/HTB-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)
+
+[**Explore Reports ↗**](https://github.com/ranjitgautam828-eng/hack-the-box-reports)
+
+
+</tr>
+</table>
 
 ---
 
-## 🔐 Where I'm heading (security focus)
+## 🎯 Current Focus
 
-| Platform | Focus |
-|---|---|
-| 🧩 pwn.college | Binary exploitation, privilege escalation, shellcode |
-| 🕹️ Hack The Box | Enumeration, footholds, privilege escalation |
-| 🧠 Cisco Labs | VLANs, ACLs, HSRP, OSPF, port security |
+- **Systems:** Linux internals, services, processes and system administration.
+- **Networking:** Routing, switching, network segmentation and troubleshooting.
+- **Cybersecurity:** Reconnaissance, enumeration and vulnerability analysis.
+- **Development:** Application architecture, backend systems and authentication.
 
-> I learn by building, breaking, and researching deeply. Every lab becomes a written report — if I can't document it, I don't count it as learned.
+**Approach:** `Learn → Build → Test → Investigate → Improve → Document`
 
 ---
 
-## 📫 Connect
+## 🤝 Opportunities
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjit-gautam-5b7ab2238)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ranjitgautam828-eng)
+**Open to:** IT and cybersecurity co-op opportunities, internships and relevant entry-level roles.
 
-📍 Based in Canada · Open to internships and junior security roles
+**Interested in:** IT infrastructure · Systems administration · Network engineering · Cybersecurity · Application security
+
+---
+
+<p align="center">
+  <b>Learn · Build · Understand · Secure</b>
+</p>
